@@ -12,6 +12,9 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "@ntohq/buefy-next": "^0.1.2",
+    "axios": "^1.6.8",
+    "markdown-it": "^14.0.0",
     "pinia": "^2.1.7",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"
